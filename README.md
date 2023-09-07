@@ -1,0 +1,1 @@
+Esse repositório armazena alguns exercícios básicos de Python, de quando iniciei a aprender a linguagem. São coisas simples, mas que decidi subir aqui.
